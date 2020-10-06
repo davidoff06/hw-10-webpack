@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/davidoff06/hw-10-webpack/"
   },
-  "homepage": "https://github.com/davidoff06/hw-10-webpack",
+  "homepage": "https://davidoff06.github.io/hw-10-webpack",
   "devDependencies": {
     "@babel/core": "^7.11.6",
     "@babel/plugin-proposal-class-properties": "^7.10.4",
